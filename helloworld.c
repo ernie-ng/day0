@@ -14,7 +14,7 @@ int main()
 
 	z = x + y;
 
-	printf("Hello world! %d ", z );
+	printf("Hello world! %d + %d = %d ", x,y,z);
 
 	return 0;
 }
